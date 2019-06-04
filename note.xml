@@ -1,0 +1,18 @@
+<note>
+<heading>
+<script type="text/javascript" charset="utf-8" id="zm-extension"/>
+<to name = "Love">Tove</to>
+<from name = "Jani">Jani</from>
+<heading property = "message">Reminder</heading>
+<body configure = "message">Don't forget me this weekend!</body>
+</heading>
+<heading>
+<script type="text/javascript" charset="utf-8" id="zm-extension"/>
+<to name = "Love">Tove</to>
+<from name = "Jani">Jani</from>
+<heading property = "message">Reminder</heading>
+<body configure = "message">Don't forget me this weekend!</body>
+</heading>
+
+
+</note>
